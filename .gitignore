@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.log
+service-account.json
+.DS_Store
+.idea/
+.vscode/
+coverage/
+service-account.json
