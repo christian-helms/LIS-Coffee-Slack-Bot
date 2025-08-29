@@ -48,7 +48,7 @@ npm run dev
 ```
 Use ngrok (or similar) to expose your local server:
 ```
-ngrok http 3000
+ngrok http --url=useful-merely-bluejay.ngrok-free.app 3000
 ```
 Set the Slack Interactivity and Slash Command Request URL to the ngrok URL.
 
